@@ -1,3 +1,0 @@
-﻿  LAB103.cpp
-C:\Users\kwan0\MIIA0106-2025-A\LAB03\LAB03\LAB3\LAB103\LAB103.cpp(9,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\kwan0\MIIA0106-2025-A\LAB03\LAB03\LAB3\LAB103\LAB103.cpp(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
